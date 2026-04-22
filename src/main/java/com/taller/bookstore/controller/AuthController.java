@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.time.Instant;
 
+// módulo de autenticación
 @RestController
 @RequestMapping("/api/v1/auth")
 @RequiredArgsConstructor
